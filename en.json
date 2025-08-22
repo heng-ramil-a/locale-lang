@@ -1,5 +1,12 @@
 {
   "HomePage": {
-    "title": "Hello World"
+    "title": "Hello World",
+    "redirect": "To Documentation",
+    "increase": "Increase",
+    "decrease": "Decrease"
+  },
+  "Doc": {
+    "title": "Documentation",
+    "redirect": "To Home"
   }
 }
